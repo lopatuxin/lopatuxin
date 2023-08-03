@@ -11,7 +11,12 @@
 -------
 ### 🛠️ Мои любимые инструменты:
 
-![java](https://img.shields.io/badge/java-%3E%3D%208-blue) ![spring](https://img.shields.io/badge/Spring-%3E%3D%205-green) ![hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205-orange) ![maven](https://img.shields.io/badge/Maven-3-red) ![sql](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-yellowgreen) ![tests](https://img.shields.io/badge/JUnit-%3E%3D%204-brightgreen)
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+          
+</div>
+
 --------
 
 ### ⚙️ GitHub статистика:
