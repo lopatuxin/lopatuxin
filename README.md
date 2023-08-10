@@ -1,3 +1,9 @@
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+------
+
 ### Привет, меня зовут Антон! 👋
 - 📫 Как связаться со мной:[![Telegram Badge](https://img.shields.io/badge/-lopatuxinAnton-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Anton4IkL) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lopatuxin.a@gmail.com) 
 -------
@@ -9,12 +15,6 @@
   </div>
   
 --------
-
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
--------
 ### 🛠️ Мои любимые инструменты:
 
 <div>
