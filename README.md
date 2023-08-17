@@ -13,6 +13,13 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
+
+  -------
+
+  
+### ⚙️ CodeWars статистика:
+
+<img src ="https://www.codewars.com/users/lopatuxin/badges/large" />
   
 --------
 ### 🛠️ Мои любимые инструменты:
@@ -44,6 +51,9 @@
     </td>
   </tr>
 </table>
+
+--------
+
 <!--
 **lopatuxin/lopatuxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
