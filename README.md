@@ -17,7 +17,7 @@
   -------
 
   
-### ⚙️ CodeWars статистика:
+### &#x1f4c8; CodeWars статистика:
 
 <img src ="https://www.codewars.com/users/lopatuxin/badges/large" />
   
@@ -39,7 +39,7 @@
 
 --------
 
-### ⚙️ GitHub статистика:
+### &#x1f4c8; GitHub статистика:
 
 <table>
   <tr>
