@@ -22,7 +22,7 @@
 <img src ="https://www.codewars.com/users/lopatuxin/badges/large" />
   
 --------
-### 🛠️ Мои любимые инструменты:
+### 🛠️ Мой стэк технологий:
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
@@ -35,6 +35,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
       
+</div>
+
+--------
+
+### 🛠️ Мои инструменты:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg?plain=1" title="Github" alt="Github" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg?plain=1" title="Github" alt="Github" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg?plain=1" title="Github" alt="Github" width="60" height="60"/>&nbsp;
 </div>
 
 --------
