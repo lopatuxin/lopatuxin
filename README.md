@@ -45,6 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg?plain=1" title="Github" alt="Github" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg?plain=1" title="Github" alt="Github" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original.svg?plain=1" title="Github" alt="Github" width="60" height="60"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
 </div>
 
 --------
