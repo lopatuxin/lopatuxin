@@ -1,20 +1,27 @@
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="center">
+
+# Anton Lopatukhin
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%7C+5%2B+years;Microservices+%7C+High-Load+Systems+%7C+Kafka;Spring+Boot+%7C+Kotlin+%7C+Kubernetes;e-Commerce+%26+FinTech+%7C+500%2B+RPS" alt="Typing SVG" /></a>
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/-@AntonLop89-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AntonLop89)
+[![Gmail](https://img.shields.io/badge/-lopatuxin.a@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopatuxin.a@gmail.com)
+[![GitHub](https://img.shields.io/badge/-lopatuxin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lopatuxin)
+
 </div>
 
-------
+---
 
-### Привет, меня зовут Антон! 👋
-- 📫 Как связаться со мной:[![Telegram Badge](https://img.shields.io/badge/-lopatuxinAnton-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Anton4IkL) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lopatuxin.a@gmail.com) 
--------
-### 🤝 Социальные сети:
-<div id="badges">
-    <a href="https://vk.com/lopatuxin" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+```
+Java 21 / Kotlin  ·  Spring Boot 3  ·  Kafka  ·  PostgreSQL  ·  Redis  ·  Kubernetes
+```
 
-  -------
+Building high-load microservices, migrating monoliths, designing event-driven architectures.
+Currently working on e-commerce platform (~100 services, 500+ RPS peak).
+
+---
 
   
 ### &#x1f4c8; CodeWars статистика:
