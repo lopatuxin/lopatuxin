@@ -14,10 +14,6 @@
 
 ---
 
-```
-Java 21 / Kotlin  ·  Spring Boot 3  ·  Kafka  ·  PostgreSQL  ·  Redis  ·  Kubernetes
-```
-
 Строю высоконагруженные микросервисы, мигрирую монолиты, проектирую event-driven архитектуры.
 Сейчас работаю над e-commerce платформой (~100 сервисов, 500+ RPS в пиках).
 
