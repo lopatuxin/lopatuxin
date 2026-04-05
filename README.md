@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
 # Антон Лопатухин
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%7C+5%2B+years;Microservices+%7C+High-Load+Systems+%7C+Kafka;Spring+Boot+%7C+Kotlin+%7C+Kubernetes;e-Commerce+%26+FinTech+%7C+500%2B+RPS" alt="Typing SVG" /></a>
