@@ -22,11 +22,6 @@
 
 ---
 
-  
-### &#x1f4c8; CodeWars статистика:
-
-<img src ="https://www.codewars.com/users/lopatuxin/badges/large" />
-  
 --------
 ### 🛠️ Мой стэк технологий:
 
