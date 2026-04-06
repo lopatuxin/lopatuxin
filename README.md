@@ -63,18 +63,17 @@
 
 --------
 
-### &#x1f4c8; GitHub статистика:
+### 🏆 GitHub трофеи:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=lopatuxin&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lopatuxin&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lopatuxin&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
+</div>
+
+### 📊 GitHub статистика:
+
+<div align="center">
+  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lopatuxin&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</div>
 
 --------
 
