@@ -74,9 +74,17 @@
 
 ### Мои проекты:
 
-<a href="https://github.com/lopatuxin/scola">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopatuxin&repo=scola&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<div align="center">
+  <a href="https://github.com/lopatuxin/budget-invest-bloom-monorepo">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=budget-invest-bloom-monorepo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
+  </a>
+  <a href="https://github.com/lopatuxin/hh">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=hh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
+  </a>
+  <a href="https://github.com/lopatuxin/tg-bot">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=tg-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
+  </a>
+</div>
 
 -------
 
