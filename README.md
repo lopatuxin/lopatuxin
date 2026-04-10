@@ -76,13 +76,13 @@
 
 <div align="center">
   <a href="https://github.com/lopatuxin/budget-invest-bloom-monorepo">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=budget-invest-bloom-monorepo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=budget-invest-bloom-monorepo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&cache_seconds=0&description_lines_count=2" />
   </a>
   <a href="https://github.com/lopatuxin/hh">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=hh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=hh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&cache_seconds=0&description_lines_count=2" />
   </a>
   <a href="https://github.com/lopatuxin/tg-bot">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=tg-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=tg-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&cache_seconds=0&description_lines_count=2" />
   </a>
 </div>
 
