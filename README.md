@@ -66,7 +66,7 @@
 ### 📊 GitHub статистика:
 
 <div align="center">
-  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lopatuxin&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
+  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lopatuxin&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
   <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lopatuxin&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </div>
 
