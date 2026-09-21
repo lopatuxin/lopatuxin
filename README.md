@@ -66,8 +66,12 @@
 ### 📊 GitHub статистика:
 
 <div align="center">
-  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lopatuxin&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
-  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lopatuxin&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D-календарь вкладов" />
+</div>
+
+<div align="center">
+  <img height="195px" src="profile/stats.svg" alt="GitHub Stats" />
+  <img height="195px" src="profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 --------
@@ -76,13 +80,13 @@
 
 <div align="center">
   <a href="https://github.com/lopatuxin/budget-invest-bloom-monorepo">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=budget-invest-bloom-monorepo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&cache_seconds=0&description_lines_count=2" />
+    <img src="profile/pin-budget-invest-bloom-monorepo.svg" />
   </a>
   <a href="https://github.com/lopatuxin/hh">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=hh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&cache_seconds=0&description_lines_count=2" />
+    <img src="profile/pin-hh.svg" />
   </a>
   <a href="https://github.com/lopatuxin/tg-bot">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lopatuxin&repo=tg-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&cache_seconds=0&description_lines_count=2" />
+    <img src="profile/pin-tg-bot.svg" />
   </a>
 </div>
 

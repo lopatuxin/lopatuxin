@@ -1,0 +1,72 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-cards.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=lopatuxin&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=lopatuxin&layout=compact&theme=vision-friendly-dark&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin budget-invest-bloom-monorepo
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=lopatuxin&repo=budget-invest-bloom-monorepo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&description_lines_count=2
+          path: profile/pin-budget-invest-bloom-monorepo.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin hh
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=lopatuxin&repo=hh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&description_lines_count=2
+          path: profile/pin-hh.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pin tg-bot
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=lopatuxin&repo=tg-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&description_lines_count=2
+          path: profile/pin-tg-bot.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: lopatuxin
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile profile-3d-contrib
+          git commit -m "Обновлены карточки профиля" || exit 0
+          git push
